@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+![TODOAPP](https://user-images.githubusercontent.com/65131757/196054956-e8188f96-f184-4a55-8a66-3b1901f3261d.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
